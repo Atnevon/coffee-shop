@@ -99,6 +99,23 @@ body > nav > div.navbar-header > a {
 
 
 
+#myCarousel {
+	   margin: auto;
+    width: 60%;
+    border:3px solid #8AC007;
+    padding: 10px;
+}
+
+#myCarousel > div {
+	  margin: auto;
+    width: 60%;
+    border:3px solid #8AC007;
+    padding: 10px;
+}
+
+
+
+
 
 
 
